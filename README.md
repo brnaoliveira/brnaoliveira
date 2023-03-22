@@ -1,6 +1,6 @@
 ## Olá pessoal, sejam bem vindos ao meu GitHub 👋 Meu nome é Bruna.
 
-- 🔭 Atualmente sou mestranda em Tecnologia da Informação e residente em Tecnologia Da Informação com ênfase em Business Intelligence e Analytic, pela UFRN.
+- 🔭 Atualmente sou mestranda em Tecnologia da Informação e residente em Tecnologia Da Informação com ênfase em Business Intelligence e Analytics, pela UFRN.
 
 
 ## Linguagens e Tecnologias:
